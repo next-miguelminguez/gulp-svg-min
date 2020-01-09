@@ -27,17 +27,9 @@ $ gulp
 ## Configuración
 
 En el archivo `./config.js` están definidas las opciones de configuración.
-Clave | Descripción | Valor por defecto
---- | --- | ---
-**src**  | Directorio donde se encuentran los SVG  | `./src/svg`
-**dest** | Directorio donde se generara el sprite | `./build/svg`
-**suffix** | Sufijo del nombre del archivo | `-min`
 
-
-# Implementación
-
-Incluir
-
-```HTML
-
-```
+| Clave | Descripción | Valor por defecto| 
+| --- | --- | ---| 
+| **src**  | Directorio donde se encuentran los SVG  | `./src/svg`| 
+| **dest** | Directorio donde se generara los SVG | `./build/svg`| 
+| **suffix** | Sufijo del nombre del archivo | `-min`| 

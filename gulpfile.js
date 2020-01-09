@@ -21,7 +21,7 @@ gulp.task('default', function () {
       ]
     }) )
     .pipe( rename({
-      suffix: config.src,
+      suffix: config.suffix,
       extname: ".svg"
     }) )
     .pipe( gulp.dest(config.dest) );

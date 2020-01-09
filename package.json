@@ -7,7 +7,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/beeva-miguelminguez/gulp-css-library-svg"
+    "url": "https://github.com/beeva-miguelminguez/gulp-svg-min"
   },
   "scripts": {
     "start": "gulp"
